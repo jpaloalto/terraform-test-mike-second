@@ -1,25 +1,25 @@
-resource "random_integer" "priority" {
+resource "random_integer" "priority6" {
   min = 1
   max = 50000
 }
 
-resource "random_integer" "priority4" {
+resource "random_integer" "priority7" {
   min = 1
   max = 50000
 }
 
-resource "random_integer" "priority2" {
+resource "random_integer" "priority8" {
   min = 1
   max = 50000
 }
 
 
-resource "random_integer" "priority3" {
+resource "random_integer" "priority9" {
   min = 1
   max = 50000
 }
 
-resource "random_integer" "priority5" {
+resource "random_integer" "priority10" {
   min = 1
   max = 50000
 }
